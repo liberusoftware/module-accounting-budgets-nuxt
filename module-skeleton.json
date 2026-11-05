@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-budgets-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-budgets",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-budgets-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/budgets.md",
+  "presentationPlan": "projects/accounting/nuxt/budgets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
